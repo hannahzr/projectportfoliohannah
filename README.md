@@ -25,4 +25,4 @@ How to Run the Project:
 3. Open the index.html file in any modern web browser (Chrome, Edge, Safari).
 
 Demo link (if deployed):
-https://github.com/hannahzr/projectportfoliohannah.git
+[https://github.com/hannahzr/projectportfoliohannah.git](https://hannahzr.github.io/projectportfoliohannah/)
