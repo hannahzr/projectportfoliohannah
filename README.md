@@ -18,6 +18,8 @@ Technologies Used:
 3. Tools & Frameworks: Git, GitHub, VS Code, Bootstrap
 
 Screenshots:
+<img width="1904" height="1031" alt="image" src="https://github.com/user-attachments/assets/89234a88-fbd6-4096-8dbd-ccac72e9a343" />
+
 
 How to Run the Project:
 1. Clone this repository to your local machine: git clone https://github.com/hannahzr/projectportfoliohannah.git   
