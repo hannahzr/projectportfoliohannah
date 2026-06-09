@@ -18,7 +18,16 @@ Technologies Used:
 3. Tools & Frameworks: Git, GitHub, VS Code, Bootstrap
 
 Screenshots:
+1. Interactive Welcome Section
 <img width="1904" height="1031" alt="image" src="https://github.com/user-attachments/assets/89234a88-fbd6-4096-8dbd-ccac72e9a343" />
+
+2. Custom Dark Mode UI
+<img width="1898" height="937" alt="image" src="https://github.com/user-attachments/assets/c7303423-9c6c-4a48-9733-5978047cec2f" />
+
+3. nteractive Blog Section
+<img width="1896" height="932" alt="image" src="https://github.com/user-attachments/assets/3587079f-d51f-4872-a02d-2c3d3823820a" />
+
+
 
 
 How to Run the Project:
